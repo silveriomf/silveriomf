@@ -1,5 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on empirical software engineering, software engineering for AI/ML-based systems, MLOps, and green AI/software.
+🔭 I’m currently working on empirical software engineering, software engineering for AI/ML-based systems, MLOps, and green AI/software. Some interesting projects:
+- Research on green AI and sustainable software engineering in the GAISSA project: https://github.com/GAISSA-UPC
+- Teaching software engineering for AI/ML-based systems and MLOps: https://github.com/MLOps-essi-upc/
+- Teaching software engineering: https://github.com/pes2324q2-gei-upc
 
 <!--
 **silveriomf/silveriomf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
