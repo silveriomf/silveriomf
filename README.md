@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on empirical software engineering, software engineering for AI/ML-based systems, MLOps, and green AI/software.
 
 <!--
 **silveriomf/silveriomf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
